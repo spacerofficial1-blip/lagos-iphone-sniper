@@ -1,0 +1,104 @@
+{
+  "fast_turnover_discount_ngn": 25000,
+  "min_profit_threshold_ngn": 45000,
+  "scam_floor_ratio": 0.42,
+  "use_auto_jiji_benchmark": false,
+  "models": {
+    "iPhone 12 Mini": {
+      "jiji_slug": "apple-iphone-12-mini",
+      "manual_clean_price": 240000,
+      "auto_clean_price": 240000,
+      "soft_oled_cost": 45000,
+      "back_glass_cost": 12000,
+      "ic_labor_cost": 15000
+    },
+    "iPhone 12": {
+      "jiji_slug": "apple-iphone-12",
+      "manual_clean_price": 310000,
+      "auto_clean_price": 310000,
+      "soft_oled_cost": 52000,
+      "back_glass_cost": 15000,
+      "ic_labor_cost": 15000
+    },
+    "iPhone 12 Pro": {
+      "jiji_slug": "apple-iphone-12-pro",
+      "manual_clean_price": 385000,
+      "auto_clean_price": 385000,
+      "soft_oled_cost": 58000,
+      "back_glass_cost": 18000,
+      "ic_labor_cost": 18000
+    },
+    "iPhone 12 Pro Max": {
+      "jiji_slug": "apple-iphone-12-pro-max",
+      "manual_clean_price": 465000,
+      "auto_clean_price": 465000,
+      "soft_oled_cost": 75000,
+      "back_glass_cost": 20000,
+      "ic_labor_cost": 20000
+    },
+    "iPhone 13 Mini": {
+      "jiji_slug": "apple-iphone-13-mini",
+      "manual_clean_price": 320000,
+      "auto_clean_price": 320000,
+      "soft_oled_cost": 65000,
+      "back_glass_cost": 18000,
+      "ic_labor_cost": 18000
+    },
+    "iPhone 13": {
+      "jiji_slug": "apple-iphone-13",
+      "manual_clean_price": 410000,
+      "auto_clean_price": 410000,
+      "soft_oled_cost": 75000,
+      "back_glass_cost": 20000,
+      "ic_labor_cost": 20000
+    },
+    "iPhone 13 Pro": {
+      "jiji_slug": "apple-iphone-13-pro",
+      "manual_clean_price": 520000,
+      "auto_clean_price": 520000,
+      "soft_oled_cost": 115000,
+      "back_glass_cost": 22000,
+      "ic_labor_cost": 25000
+    },
+    "iPhone 13 Pro Max": {
+      "jiji_slug": "apple-iphone-13-pro-max",
+      "manual_clean_price": 610000,
+      "auto_clean_price": 610000,
+      "soft_oled_cost": 130000,
+      "back_glass_cost": 25000,
+      "ic_labor_cost": 25000
+    },
+    "iPhone 14": {
+      "jiji_slug": "apple-iphone-14",
+      "manual_clean_price": 510000,
+      "auto_clean_price": 510000,
+      "soft_oled_cost": 110000,
+      "back_glass_cost": 25000,
+      "ic_labor_cost": 25000
+    },
+    "iPhone 14 Plus": {
+      "jiji_slug": "apple-iphone-14-plus",
+      "manual_clean_price": 575000,
+      "auto_clean_price": 575000,
+      "soft_oled_cost": 125000,
+      "back_glass_cost": 28000,
+      "ic_labor_cost": 25000
+    },
+    "iPhone 14 Pro": {
+      "jiji_slug": "apple-iphone-14-pro",
+      "manual_clean_price": 690000,
+      "auto_clean_price": 690000,
+      "soft_oled_cost": 155000,
+      "back_glass_cost": 30000,
+      "ic_labor_cost": 30000
+    },
+    "iPhone 14 Pro Max": {
+      "jiji_slug": "apple-iphone-14-pro-max",
+      "manual_clean_price": 790000,
+      "auto_clean_price": 790000,
+      "soft_oled_cost": 180000,
+      "back_glass_cost": 35000,
+      "ic_labor_cost": 30000
+    }
+  }
+}
